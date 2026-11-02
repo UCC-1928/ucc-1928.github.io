@@ -7,3 +7,5 @@ th{background:#f3f7f5}
 .wrap{overflow-x:auto}
 .note{background:#fffbea;border-left:4px solid #e5b700;padding:8px 12px}
 footer{margin-top:40px;font-size:.85em;color:#666}
+td a{color:#0a5;text-decoration:none;font-weight:600}
+td a:hover,td a:focus{text-decoration:underline}
